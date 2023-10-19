@@ -85,7 +85,7 @@ You get:
 57472 JPY
 
   c) $968,410.12
-  
+
 Please input the total amount of US Dollars: 968410.12
 Fee (10%): $96841.01
 You get:
@@ -99,7 +99,7 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
-
+No, using only `int` types would not be sufficient to accurately convert the US national debt of $26,009,754,625,487 due to the large value exceeding the maximum representable integer value in most programming languages.
 
 
 7. Mixed types
