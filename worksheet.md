@@ -18,15 +18,20 @@ Enter the day of the month in which you were born (1-31): 9
 Today is 2023/10/19
 Your birthday was 2000/09/09
 Hello, Dennis.  You are 23 years, 5 weeks, and 4 days old today
-PS C:\Users\hp\OneDrive\Desktop\LABWORK\CSCE155-C-Lab02>       
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
-
-
+ANSWER:
+Please Enter Your First Name (no spaces) followed by ENTER: BjarneStroustrup
+Enter the year in which you were born: 2000
+Enter the month in which you were born (1-12): 12
+Enter the day of the month in which you were born (1-31): 30
+Today is 2023/10/19
+Your birthday was 2000/12/30
+Hello, BjarneStroustrup.  You are 22 years, 41 weeks, and 6 days old today
 
 3. Software testing often involves testing code with known
 "bad" input in an attempt to break it (sometimes this is
