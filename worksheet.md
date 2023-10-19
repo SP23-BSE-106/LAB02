@@ -70,10 +70,27 @@ the exchange amounts for the following inputs:
 
   a) $250.25
 
+Please input the total amount of US Dollars: 250.25
+Fee (10%): $25.03
+You get:
+88.96 GBP
+14374 JPY
+
   b) $1,000.52
 
-  c) $968,410.12
+Please input the total amount of US Dollars: 1000.52
+Fee (10%): $100.05
+You get:
+355.68 GBP
+57472 JPY
 
+  c) $968,410.12
+  
+Please input the total amount of US Dollars: 968410.12
+Fee (10%): $96841.01
+You get:
+344269.80 GBP
+55627898 JPY
 
 
 6. Suppose that you had used only `int` types
