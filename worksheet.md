@@ -11,7 +11,14 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
-
+ANSWER:
+Enter the year in which you were born: 2000
+Enter the month in which you were born (1-12): 9
+Enter the day of the month in which you were born (1-31): 9
+Today is 2023/10/19
+Your birthday was 2000/09/09
+Hello, Dennis.  You are 23 years, 5 weeks, and 4 days old today
+PS C:\Users\hp\OneDrive\Desktop\LABWORK\CSCE155-C-Lab02>       
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
