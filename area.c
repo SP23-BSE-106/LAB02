@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: Munazza Javed
  * 
  * This program prompts the user to enter the
  * base and the height of a triangle and computes
@@ -22,7 +22,7 @@ int main(int argc, char **argv) {
 
   scanf("%lf", &height);
 
-  area = 1/2 * base * height;
+  area = 0.5 * base * height;
 
   printf("The area is %f square units.\n", area);
 
