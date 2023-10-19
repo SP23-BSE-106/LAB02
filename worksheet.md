@@ -49,19 +49,19 @@ results you observe.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size: 2 bytes
+  range:-32,768 to 32,767
 * `int`
-  size:
-  range:
+  size: 4 bytes
+  range: -2,147,483,648 to 2,147,483,647 (signed) or 0 to 4,294,967,295 (unsigned)
 * `long int`
-  size:
-  range:
+  size: 4 or 8 bytes
+  range:-2,147,483,648 to 2,147,483,647 (signed) or 0 to 4,294,967,295 (unsigned) for 4-byte.
 * `float`
-  size:
+  size: 4 bytes
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 8 bytes
   range: 15 digits of accuracy
 
 

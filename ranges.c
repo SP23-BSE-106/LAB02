@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: Munazza Javed
  *
  * This program outputs data on the limits of various
  * data types.
@@ -24,7 +24,7 @@ int main(int argc, char **argv) {
   //integers
   printf("Data type: integer.\n");
   printf("Maximum value for INT is :%d.\n",INT_MAX);
-  printf("Minimum value for INT is :%d.\n",INT_MIn);
+  printf("Minimum value for INT is :%d.\n",INT_MIN);
   printf("Minimum value for signed short: %d.\n", SHRT_MIN);
   printf("Maximum value for signed short: %d. \n", SHRT_MAX);
   printf("Size of signed short: %ld bytes.\n\n", sizeof(signed short));
