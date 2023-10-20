@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: Munazza Javed
  *
  * This program reads in command line arguments
  * of the user's name and birthday and computes

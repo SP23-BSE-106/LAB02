@@ -40,7 +40,15 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
+Today is 2023/10/20
+Your birthday was 1900/01/00
+Hello, John. You are 123 years, 0 weeks, and 0 days old today.
 
+PS D:\LABWORK\CSCE155-C-Lab02> .\a.exe John nonnumeric 1990 10 20
+ERROR: invalid number of command line inputs
+       Usage: birthday FIRSTNAME YEAR MONTH DAY
+
+       
 
 
 4. Complete all the size and range entries below.
